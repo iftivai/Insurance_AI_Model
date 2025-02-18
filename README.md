@@ -9,3 +9,4 @@ This is a Flask-based API for detecting fraudulent insurance claims using a mach
  - Fraud Detection: Predicts whether an insurance claim is fraudulent based on input parameters.
  - Model Retraining: Allows retraining of the model with new data.
  - RESTful API: Exposes endpoints for integration with other services.
+ - Tested and Deployed on Microsoft Azure: Ensures flexibility for any cloud, datasets, and scenarios.
